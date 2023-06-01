@@ -1,4 +1,4 @@
-package com.quangduong.SE330backend.entity;
+package com.quangduong.SE330backend.entity.sql;
 
 import com.quangduong.SE330backend.constant.TaskStatus;
 import jakarta.persistence.*;

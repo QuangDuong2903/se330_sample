@@ -1,9 +1,8 @@
-package com.quangduong.SE330backend.entity;
+package com.quangduong.SE330backend.entity.sql;
 
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
-import java.util.LinkedList;
 import java.util.List;
 
 @Entity
